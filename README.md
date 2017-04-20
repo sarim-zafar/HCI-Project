@@ -1,2 +1,6 @@
 # HCI-Project
-Twitter user classification(which political party do they support)
+Psychometric test for Pakistan
+Group members:
+Ammar Ahmed
+Sarim Zafar
+Shahzaib Javaid
